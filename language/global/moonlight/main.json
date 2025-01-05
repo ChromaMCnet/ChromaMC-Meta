@@ -1,0 +1,6 @@
+{
+    "ERROR.module.null": {
+        "de-DE": "[grey]Die [blue]Modul Instanz</color> ist aktuell [red]NULL!</color> Dies ist ein fehler, bitte kontaktiere sofort einen [red]Administrator!</color></color>",
+        "en-US": "[grey]The [blue]Module Instance</color> is currently [red]NULL!</color> This is an error, please contact an [red]Administrator!</color></color>"
+    }
+}
