@@ -1,6 +1,38 @@
 {
     "ERROR.module.null": {
         "de-DE": "[grey]Die [blue]Modul Instanz</color> ist aktuell [red]NULL!</color> Dies ist ein fehler, bitte kontaktiere sofort einen [red]Administrator!</color></color>",
-        "en-US": "[grey]The [blue]Module Instance</color> is currently [red]NULL!</color> This is an error, please contact an [red]Administrator!</color></color>"
+        "en-US": "[grey]The [blue]module Instance</color> is currently [red]NULL!</color> This is an error, please contact an [red]Administrator!</color></color>"
+    },
+    "SUCCESS.module.reload": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> wurde [green]erfolgreich</color> neu geladen!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> has been [green]successfully</color> reloaded!</color>"
+    },
+    "SUCCESS.module.unload": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> wurde [green]erfolgreich</color> deaktiviert!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> has been [green]successfully</color> disabled!</color>"
+    },
+    "ERROR.module.unload.not.loaded": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> ist [red]nicht</color> geladen!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> is [red]not</color> loaded!</color>"
+    },
+    "SUCCESS.module.load": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> wurde [green]erfolgreich</color> geladen!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> has been loaded [green]successfully!</color></color>"
+    },
+    "ERROR.module.load.already.loaded": {
+        "de-DE": "[grey]Das Modul [blue][module] [version]</color> ist [red]bereits</color> geladen!</color>",
+        "en-US": "[grey]The module [blue][module] [version]</color> is [red]already</color> loaded!</color>"
+    },
+    "INFO.modules.list.all": {
+        "de-DE": "[grey]Liste aller Module <dark_grey>([blue][count]</color>)</dark_grey></color>:<br>",
+        "en-US": "[grey]List of all modules <dark_grey>([blue][count]</color>)</dark_grey></color>:<br>"
+    },
+    "INFO.modules.list.loaded": {
+        "de-DE": "[grey]Liste aller geladenen Module <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>",
+        "en-US": "[grey]List of all loaded modules <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>"
+    },
+    "INFO.modules.list.not.loaded": {
+        "de-DE": "[grey]Liste aller nicht geladenen Module <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>",
+        "en-US": "[grey]List of all not loaded modules <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>"
     }
 }
