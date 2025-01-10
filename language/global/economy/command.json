@@ -7,6 +7,10 @@
         "de-DE": "<color:#96a7b2>[blue][player]</color> hat [amount] [economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
         "en-US": "<color:#96a7b2>[blue][player]</color> has <color:#4bfb00>added</color> [amount] [economy] to your balance!</color>"
     },
+    "ECONOMY.balance.add.self": {
+        "de-DE": "<color:#96a7b2>Du hast [amount] [economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "<color:#96a7b2>You have <color:#4bfb00>added</color> [amount] [economy] to your balance!</color>"
+    },
     "ECONOMY.balance.remove": {
         "de-DE": "<color:#96a7b2>Du hast [amount] [economy] vom Kontostand von [blue][player]</color> <color:#ff0000>entfernt!</color></color>",
         "en-US": "<color:#96a7b2>You have <color:#ff0000>removed</color> [amount] [economy] from the balance of [blue][player]!</color></color>"
@@ -14,6 +18,10 @@
     "ECONOMY.balance.remove.other": {
         "de-DE": "<color:#96a7b2>[blue][player]</color> hat [amount] [economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
         "en-US": "<color:#96a7b2>[blue][player]</color> has <color:#ff0000>removed</color> [amount] [economy] from your balance!</color>"
+    },
+    "ECONOMY.balance.remove.self": {
+        "de-DE": "<color:#96a7b2>Du hast [amount] [economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
+        "en-US": "<color:#96a7b2>You have <color:#ff0000>removed</color> [amount] [economy] from your balance!</color>"
     },
     "ECONOMY.balance.set": {
         "de-DE": "<color:#96a7b2>Du hast den Kontostand von [blue][player]</color> auf [amount] [economy] <color:#4bfb00>gesetzt!</color></color>",
@@ -23,6 +31,10 @@
         "de-DE": "<color:#96a7b2>[blue][player]</color> hat deinen Kontostand auf [amount] [economy] <color:#4bfb00>gesetzt!</color></color>",
         "en-US": "<color:#96a7b2>[blue][player]</color> has <color:#4bfb00>set</color> your balance to [amount] [economy]!</color>"
     },
+    "ECONOMY.balance.set.self": {
+        "de-DE": "<color:#96a7b2>Du hast deinen Kontostand auf [amount] [economy] <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "<color:#96a7b2>You have <color:#4bfb00>set</color> your balance to [amount] [economy]!</color>"
+    },
     "ECONOMY.balance.reset": {
         "de-DE": "<color:#96a7b2>Du hast den [economy] Kontostand von [blue][player]</color> <color:#ff0000>zurückgesetzt!</color></color>",
         "en-US": "<color:#96a7b2>You have <color:#ff0000>reset</color> the [economy] balance of [blue][player]!</color></color>"
@@ -30,6 +42,10 @@
     "ECONOMY.balance.reset.other": {
         "de-DE": "<color:#96a7b2>[blue][player]</color> hat deinen [economy] Kontostand <color:#ff0000>zurückgesetzt!</color></color>",
         "en-US": "<color:#96a7b2>[blue][player]</color> has <color:#ff0000>reset</color> your [economy] balance!</color>"
+    },
+    "ECONOMY.balance.reset.self": {
+        "de-DE": "<color:#96a7b2>Du hast deinen [economy] Kontostand <color:#ff0000>zurückgesetzt!</color></color>",
+        "en-US": "<color:#96a7b2>You have <color:#ff0000>reset</color> your [economy] balance!</color>"
     },
     "ECONOMY.balance.get": {
         "de-DE": "<color:#96a7b2>Dein [economy] Kontostand beträgt [amount] [economy!</color>",
