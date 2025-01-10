@@ -67,14 +67,6 @@
         "de-DE": "<color:#96a7b2>Du hast <color:#ff0000>nicht</color> genügend [economy] um diese Aktion auszuführen!</color>",
         "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have enough [economy] to perform this action!</color>"
     },
-    "ECONOMY.error.registered": {
-        "de-DE": "<color:#96a7b2>Dieser Spieler ist noch <color:#ff0000>nicht</color> in unserem [blue]Economy System</color> registriert! Vielleicht hat er noch <color:#ff0000>nie</color> auf diesem Server gespielt?</color>",
-        "en-US": "<color:#96a7b2>This player is <color:#ff0000>not</color> registered in our [blue]Economy System</color> yet! Maybe he has <color:#ff0000>never</color> played on this server before?</color>"
-    },
-    "ECONOMY.error": {
-        "de-DE": "<color:#96a7b2>Beim ausführen dieser Aktion ist ein <color:#ff0000>Fehler</color> aufgetreten!</color>",
-        "en-US": "<color:#96a7b2>>An <color:#ff0000>error</color> occurred while performing this action!</color>"
-    },
     "ERROR.economy.notfound": {
         "de-DE": "[grey]Das System konnte die angegebene [blue]Währung</color> [red]nicht</color> finden!</color>",
         "en-US": "[grey]The system could <color:#ff0000>not</color> find the specified [blue]currency</color>!</color>"
