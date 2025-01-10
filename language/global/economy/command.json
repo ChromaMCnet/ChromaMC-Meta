@@ -43,6 +43,10 @@
         "de-DE": "<color:#96a7b2>Der [economy] Kontostand von [blue][player]</color> beträgt [amount] [economy]!</color>",
         "en-US": "<color:#96a7b2>The [economy] balance of [blue][player]</color> is [amount] [economy]!</color>"
     },
+    "ECONOMY.balance.get.all": {
+        "de-DE": "<color:#96a7b2>Hier sind alle deine [blue]Kontostände</color> aufgelistet:<br></color>",
+        "en-US": "<color:#96a7b2>Here are all your [blue]balances</color> listed:<br></color>"
+    },
     "ECONOMY.balance.pay": {
         "de-DE": "<color:#96a7b2>Du hast [blue][player]</color> [amount] [economy] überwiesen!</color>",
         "en-US": "<color:#96a7b2>You have payed [blue][player]</color> [amount] [economy]!</color>"
