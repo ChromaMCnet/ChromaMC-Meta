@@ -48,8 +48,8 @@
         "de-DE": "<color:#96a7b2>Bestrafungshistorie für [blue][player]:</color></color><br>"
     },
     "PUNISH.ban.notify": {
-        "en-US": "<color:#96a7b2>[blue][executor]</color> <color:#ff0000>BANNED</color> [blue][player]!</color></color>",
-        "de-DE": "<color:#96a7b2>[blue][executor]</color> hat [blue][player]</color> <color:#ff0000>gebannt!</color></color>"
+        "en-US": "<color:#96a7b2>[blue][executor]</color> <color:#ff0000><b>BANNED</b></color> [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>[blue][executor]</color> hat [blue][player]</color> <color:#ff0000><b>GEBANNT!</b></color></color>"
     },
     "PUNISH.kick.notify": {
         "en-US": "<color:#96a7b2>[blue][executor]</color> <color:#ff0000>kicked</color> [blue][player]!</color></color>",
