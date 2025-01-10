@@ -15,6 +15,10 @@
         "de-DE": "<color:#96a7b2>Der Command [blue]/[command]</color> existiert <color:#ff0000>nicht!</color> </color>",
         "en-US": "<color:#96a7b2>The command [blue]/[command]</color> does <color:#ff0000>not</color> exist!</color>"
     },
+    "ERROR.command.self": {
+        "de-DE": "[grey]Du kannst diesen [blue]Command</color> [red]nicht</color> auf dich selbst anwenden!</color>",
+        "en-US": "[grey]You can't use this [blue]command</color> on yourself!</color>"
+    },
     "DATE.relative.minute.less.ago": {
         "de-DE": "vor weniger als einer Minute",
         "en-US": "less than a minute ago"
