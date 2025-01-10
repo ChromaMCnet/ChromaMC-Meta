@@ -74,5 +74,9 @@
     "ECONOMY.error": {
         "de-DE": "<color:#96a7b2>Beim ausführen dieser Aktion ist ein <color:#ff0000>Fehler</color> aufgetreten!</color>",
         "en-US": "<color:#96a7b2>>An <color:#ff0000>error</color> occurred while performing this action!</color>"
+    },
+    "ERROR.economy.notfound": {
+        "de-DE": "[grey]Das System konnte die angegebene [blue]Währung</color> [red]nicht</color> finden!</color>",
+        "en-US": "[grey]The system could <color:#ff0000>not</color> find the specified [blue]currency</color>!</color>"
     }
 }
