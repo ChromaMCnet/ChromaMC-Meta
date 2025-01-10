@@ -1,0 +1,10 @@
+{
+    "ITEM.module.enabled": {
+        "de-DE": "[grey][dot] Autor: [blue][author]</color><br>[dot] Version: [blue][version]</color><br>Description: [blue][description]</color><br><br>[dot] [blue]Linksklick</color> zum deaktivieren<br>[dot] [blue]Rechtsklick</color> zum neu laden<br><br>[green][AKTIVIERT]</color></color>",
+        "en-US": "[grey][dot] Author: [blue][author]</color><br>[dot] Version: [blue][version]</color><br>Description: [blue][description]</color><br><br>[dot] [blue]Left click</color> to disable<br>[dot] [blue]Right click</color> to reload<br><br>[green][ENABLED]</color></color>"
+    },
+    "ITEM.module.disabled": {
+        "de-DE": "[grey][dot] Autor: [blue][author]</color><br>[dot] Version: [blue][version]</color><br>Description: [blue][description]</color><br><br>[dot] [blue]Linksklick</color> zum aktivieren<br><br>[red][DEAKTIVIERT]</color></color>",
+        "en-US": "[grey][dot] Author: [blue][author]</color><br>[dot] Version: [blue][version]</color><br>Description: [blue][description]</color><br><br>[dot] [blue]Left click</color> to enable<br><br>[red][DISABLED]</color></color>"
+    }
+}
