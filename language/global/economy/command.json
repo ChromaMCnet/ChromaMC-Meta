@@ -70,5 +70,13 @@
     "ERROR.economy.notfound": {
         "de-DE": "[grey]Das System konnte die angegebene [blue]Währung</color> [red]nicht</color> finden!</color>",
         "en-US": "[grey]The system could <color:#ff0000>not</color> find the specified [blue]currency</color>!</color>"
+    },
+    "ECONOMY.currency.add": {
+        "de-DE": "[grey]Du hast die [blue]Währung [currency]</color> [green]hinzugefügt!</color></color>",
+        "en-US": "[grey]You have [green]added</color> the [blue]currency [currency]!</color></color>"
+    },
+    "ECONOMY.currency.remove": {
+        "de-DE": "[grey]Du hast die [blue]Währung [currency]</color> [red]entfernt!</color></color>",
+        "en-US": "[grey]You have [red]removed</color> the [blue]currency [currency]!</color></color>"
     }
 }
