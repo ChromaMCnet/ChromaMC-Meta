@@ -104,8 +104,8 @@
         "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Duration: [blue][duration]</color><br>[prefix] Active: [blue][active]</color></color>"
     },
     "GENERAL.history.bans.gui.lore": {
-        "de-DE": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Grund: [blue][reason]</color><br>[dot] Servergruppe: [blue][servergroup]</color><br>[dot]Aktiv: <white>[active]</white></color>",
-        "en-US": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Reason: [blue][reason]</color><br>[dot] Servergroup: [blue][servergroup]</color><br>[dot]Active: <white>[active]</white></color>"
+        "de-DE": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Grund: [blue][reason]</color><br>[dot] Servergruppe: [blue][servergroup]</color><br>[dot]Dauer: [blue][duration]</color><br>[dot]Aktiv: <white>[active]</white></color>",
+        "en-US": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Reason: [blue][reason]</color><br>[dot] Servergroup: [blue][servergroup]</color><br>[dot] Duration: [blue][duration]</color><br>[dot] Active: <white>[active]</white></color>"
     },
     "GENERAL.history.kicks.gui.lore": {
         "de-DE": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Grund: [blue][reason]</color>",
