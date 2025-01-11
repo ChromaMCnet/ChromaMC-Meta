@@ -88,8 +88,8 @@
         "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, [blue]permanente Dauern</color> für Bestrafungen zu verwenden.</color>"
     },
     "ERROR.history.no.punishment": {
-        "en-US": "<color:#96a7b2>The player [blue][player]</color> has <color:#ff0000>no</color> punishment history for the punishment type [blue][type].</color></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> hat <color:#ff0000>keine</color> Bestrafungshistorie für den Bestrafungstypen [blue][type].</color>.</color>"
+        "en-US": "<color:#96a7b2>The player [blue][player]</color> has <color:#ff0000>no</color> history.</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> hat <color:#ff0000>keine</color> Bestrafungshistorie.</color>"
     },
     "GENERAL.history.bans": {
         "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Dauer: [blue][duration]</color><br>[prefix] Aktiv: [blue][active]</color></color>",
@@ -102,5 +102,17 @@
     "GENERAL.history.mutes": {
     	"de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Dauer: [blue][duration]</color><br>[prefix] Aktiv: [blue][active]</color></color>",
         "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Duration: [blue][duration]</color><br>[prefix] Active: [blue][active]</color></color>"
+    },
+    "GENERAL.history.bans.gui.lore": {
+        "de-DE": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Grund: [blue][reason]</color><br>[dot] Servergruppe: [blue][servergroup]</color><br>[dot]Aktiv: <white>[active]</white></color>",
+        "en-US": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Reason: [blue][reason]</color><br>[dot] Servergroup: [blue][servergroup]</color><br>[dot]Active: <white>[active]</white></color>"
+    },
+    "GENERAL.history.kicks.gui.lore": {
+        "de-DE": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Grund: [blue][reason]</color>",
+        "en-US": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Reason: [blue][reason]</color>"
+    },
+    "GENERAL.history.mutes.gui.lore": {
+        "de-DE": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Grund: [blue][reason]</color><br>[dot] Servergruppe: [blue][servergroup]</color><br>[dot] Dauer: [blue][duration]</color><br>[dot] Aktiv: <white>[active]</white></color>",
+        "en-US": "[grey][dot] ID: [blue][id]</color><br>[dot] Executor: [blue][executor]</color><br>[dot] Reason: [blue][reason]</color><br>[dot] Servergroup: [blue][servergroup]</color><br>[dot] Duration: [blue][duration]</color><br>[dot] Active: <white>[active]</white></color>"
     }
 }
