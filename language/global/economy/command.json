@@ -82,5 +82,9 @@
     "ECONOMY.currency.exists": {
         "de-DE": "[grey]Die [blue]Währung [currency]</color> existiert bereits!</color>",
         "en-US": "[grey]The [blue]currency [currency]</color> already exists!</color>"
+    },
+    "ECONOMY.currency.list": {
+        "de-DE": "[grey]Registrierte Währungen: [blue][currencies]</color></color>",
+        "en-US": "[grey]Registered currencies: [blue][currencies]</color></color>"
     }
 }
