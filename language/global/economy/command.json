@@ -78,5 +78,9 @@
     "ECONOMY.currency.remove": {
         "de-DE": "[grey]Du hast die [blue]Währung [currency]</color> [red]entfernt!</color></color>",
         "en-US": "[grey]You have [red]removed</color> the [blue]currency [currency]!</color></color>"
+    },
+    "ECONOMY.currency.exists": {
+        "de-DE": "[grey]Die [blue]Währung [currency]</color> existiert bereits!</color>",
+        "en-US": "[grey]The [blue]currency [currency]</color> already exists!</color>"
     }
 }
