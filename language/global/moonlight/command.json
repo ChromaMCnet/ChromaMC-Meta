@@ -24,15 +24,15 @@
         "en-US": "[grey]The module [blue][module] [version]</color> is [red]already</color> loaded!</color>"
     },
     "INFO.modules.list.all": {
-        "de-DE": "[grey]Liste aller Module <dark_grey>([blue][count]</color>)</dark_grey></color>:<br>",
-        "en-US": "[grey]List of all modules <dark_grey>([blue][count]</color>)</dark_grey></color>:<br>"
+        "de-DE": "[grey]Liste aller Module <dark_grey>([blue][count]</color>)</dark_grey></color>:<br>[modules]",
+        "en-US": "[grey]List of all modules <dark_grey>([blue][count]</color>)</dark_grey></color>:<br>[modules]"
     },
     "INFO.modules.list.loaded": {
-        "de-DE": "[grey]Liste aller geladenen Module <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>",
-        "en-US": "[grey]List of all loaded modules <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>"
+        "de-DE": "[grey]Liste aller geladenen Module <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]",
+        "en-US": "[grey]List of all loaded modules <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]"
     },
     "INFO.modules.list.not.loaded": {
-        "de-DE": "[grey]Liste aller nicht geladenen Module <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>",
-        "en-US": "[grey]List of all not loaded modules <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>"
+        "de-DE": "[grey]Liste aller nicht geladenen Module <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]",
+        "en-US": "[grey]List of all not loaded modules <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]"
     }
 }
