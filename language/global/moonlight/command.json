@@ -49,7 +49,7 @@
     },
     "INFO.module.loading": {
         "de-DE": "[grey]Lade Modul [blue][module]...</color></color>",
-        "en-US": "[grey]Loading module [blue][module]>...</color></color>"
+        "en-US": "[grey]Loading module [blue][module]...</color></color>"
     },
     "ERROR.module.load.timeout": {
         "de-DE": "[grey]Das Modul [blue][module</color> konnte [red]nicht</color> geladen werden, da es [red]zu lange</color> gedauert hat!</color>",
