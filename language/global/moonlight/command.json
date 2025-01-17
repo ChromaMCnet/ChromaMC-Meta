@@ -34,5 +34,17 @@
     "INFO.modules.list.unloaded": {
         "de-DE": "[grey]Liste aller nicht geladenen Module <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]",
         "en-US": "[grey]List of all not loaded modules <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]"
+    },
+    "INFO.modules.list.no.loaded": {
+        "de-DE": "[grey]Es sind [red]keine</color> Module geladen!</color>",
+        "en-US": "[grey]There are [red]no</color> modules loaded!</color>"
+    },
+    "INFO.modules.list.no.unloaded": {
+        "de-DE": "[grey]Es sind [red]keine</color> Module nicht geladen!</color>",
+        "en-US": "[grey]There are [red]no</color> modules not loaded!</color>"
+    },
+    "INFO.modules.list.no.modules": {
+        "de-DE": "[grey]Es sind [red]keine</color> Module vorhanden!</color>",
+        "en-US": "[grey]There are [red]no</color> modules available!</color>"
     }
 }
