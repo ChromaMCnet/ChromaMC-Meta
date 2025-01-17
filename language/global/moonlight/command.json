@@ -31,7 +31,7 @@
         "de-DE": "[grey]Liste aller geladenen Module <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]",
         "en-US": "[grey]List of all loaded modules <dark_grey>([grey][green][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]"
     },
-    "INFO.modules.list.not.loaded": {
+    "INFO.modules.list.unloaded": {
         "de-DE": "[grey]Liste aller nicht geladenen Module <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]",
         "en-US": "[grey]List of all not loaded modules <dark_grey>([grey][red][count]</color> / [maxcount]</color>)</dark_grey></color>:<br>[modules]"
     }
