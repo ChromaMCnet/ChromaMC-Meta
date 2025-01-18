@@ -11,6 +11,10 @@
         "de-DE": "<color:#96a7b2>Das Wort [blue][word]</color> ist <color:#ff0000>nicht</color> auf der [blue]Blacklist!</color></color>",
         "en-US": "<color:#96a7b2>The word [blue][word]</color> is <color:#ff0000>not</color> on the [blue]Blacklist!</color></color>"
     },
+    "ERROR.blacklist.exists": {
+        "de-DE": "<color:#96a7b2>Das Wort [blue][word]</color> ist [red]bereits</color> auf der [blue]Blacklist!</color></color>",
+        "en-US": "<color:#96a7b2>The word [blue][word]</color> is [red]already</color> on the [blue]Blacklist!</color></color>"
+    },
     "ERROR.blacklist.empty": {
         "de-DE": "<color:#96a7b2>Die [blue]Blacklist</color> ist aktuell <color:#ff0000>leer!</color></color>",
         "en-US": "<color:#96a7b2>The [blue]Blacklist</color> is currently <color:#ff0000>empty!</color></color>"
