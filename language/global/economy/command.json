@@ -36,8 +36,8 @@
         "en-US": "<color:#96a7b2>You have <color:#4bfb00>set</color> your balance to [amount] [economy]!</color>"
     },
     "ECONOMY.balance.get": {
-        "de-DE": "<color:#96a7b2>Dein [economy] Kontostand beträgt [amount] [economy!</color>",
-        "en-US": "<color:#96a7b2>Your [economy] balance is [amount] [economy!</color>"
+        "de-DE": "<color:#96a7b2>Dein [economy] Kontostand beträgt [blue][amount]</color> [economy]!</color>",
+        "en-US": "<color:#96a7b2>Your [economy] balance is [blue][amount]</color> [economy]!</color>"
     },
     "ECONOMY.balance.get.other": {
         "de-DE": "<color:#96a7b2>Der [economy] Kontostand von [blue][player]</color> beträgt [amount] [economy]!</color>",
