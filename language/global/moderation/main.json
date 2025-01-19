@@ -87,8 +87,8 @@
         "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use [blue]permanent durations</color> for punishments.</color>",
         "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, [blue]permanente Dauern</color> für Bestrafungen zu verwenden.</color>"
     },
-    "ERROR.history.no.punishment": {
-        "en-US": "<color:#96a7b2>The player [blue][player]</color> has <color:#ff0000>no</color> history.</color></color>",
+    "ERROR.history.empty": {
+        "en-US": "<color:#96a7b2>The player [blue][player]</color> has <color:#ff0000>no</color> punishment history.</color></color>",
         "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> hat <color:#ff0000>keine</color> Bestrafungshistorie.</color>"
     },
     "GENERAL.history.bans": {
