@@ -35,12 +35,12 @@
         "en-US": "[grey][green]Successfully</color> banned the player [blue][player]</color> for [blue][duration]</color> and with reason [blue][reason]!</color></color>",
         "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> für [blue][duration]</color> und mit dem Grund [blue][reason]</color> gebannt!</color>"
     },
-    "PUNISH.command.unban": {
-        "en-US": "[grey][green]Successfully</color> unbanned the player [blue][player]!</color></color>",
+    "PUNISH.command.unpunish.ban": {
+        "en-US": "[grey]You [green]successfully</color> unbanned the player [blue][player]!</color></color>",
         "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> entbannt!</color>"
     },
-    "PUNISH.command.unmute": {
-        "en-US": "[grey][green]Successfully</color> unmuted the player [blue][player]!</color></color>",
+    "PUNISH.command.unpunish.mute": {
+        "en-US": "[grey]You [green]successfully</color> unmuted the player [blue][player]!</color></color>",
         "de-DE": "[grey]Der Spieler [blue][player]</color> wurde [green]erfolgreich</color> entstummschaltet!</color>"
     },
     "PUNISH.history": {
