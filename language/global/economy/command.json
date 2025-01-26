@@ -107,6 +107,14 @@
         "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] vom Kontostand von [blue][player]</color> entfernen!</color>",
         "en-US": "[grey]You can not remove [blue]zero</color> [economy] from the balance of [blue][player]!</color>"
     },
+    "ECONOMY.balance.add.null": {
+        "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] zu deinem Kontostand hinzufügen!</color>",
+        "en-US": "[grey]You can not add [blue]zero</color> [economy] to your balance!</color>"
+    },
+    "ECONOMY.balance.add.null.other": {
+        "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] zu dem Kontostand von [blue][player]</color> hinzufügen!</color>",
+        "en-US": "[grey]You can not add [blue]zero</color> [economy] to the balance of [blue][player]!</color>"
+    },
     "ECONOMY.balance.pay.null": {
         "de-DE": "[grey]Du kannst nicht [blue]null</color> [economy] überweisen!</color>",
         "en-US": "[grey]You can not pay [blue]zero</color> [economy]!</color>"
