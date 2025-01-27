@@ -124,7 +124,7 @@
         "en-US": "[grey]You can not pay [blue]zero</color> [economy] to [blue][player]!</color>"
     },
     "ECONOMY.balance.pay.all.no.players": {
-        "de-DE": "[grey]Es sind keine Spieler online, denen du [economy] überweisen könntest!</color>",
-        "en-US": "[grey]There are no players online to pay [economy] to!</color>"
+        "de-DE": "[grey]Es sind [red]keine Spieler</color> online, denen du etwas [blue]überweisen</color> könntest!</color>",
+        "en-US": "[grey]There are [red]no players</color> online to [blue]pay</color> to!</color>"
     }
 }
