@@ -1,91 +1,91 @@
 {
     "ECONOMY.balance.add": {
-        "de-DE": "<color:#96a7b2>Du hast [blue][amount]</color> [economy] zum Kontostand von [blue][player]</color> <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#4bfb00>added</color> [blue][amount]</color> [economy] to the balance of [blue][player]!</color></color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] zum Kontostand von [blue][player]</color> <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "[grey]You have <color:#4bfb00>added</color> [blue][amount]</color> [economy] to the balance of [blue][player]!</color></color>"
     },
     "ECONOMY.balance.add.other": {
-        "de-DE": "<color:#96a7b2>[blue][player]</color> hat [blue][amount]</color> [economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "<color:#96a7b2>[blue][player]</color> has <color:#4bfb00>added</color> [blue][amount]</color> [economy] to your balance!</color>"
+        "de-DE": "[grey][blue][player]</color> hat [blue][amount]</color> [economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "[grey][blue][player]</color> has <color:#4bfb00>added</color> [blue][amount]</color> [economy] to your balance!</color>"
     },
     "ECONOMY.balance.add.self": {
-        "de-DE": "<color:#96a7b2>Du hast [blue][amount]</color> [economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#4bfb00>added</color> [blue][amount]</color> [economy] to your balance!</color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "[grey]You have <color:#4bfb00>added</color> [blue][amount]</color> [economy] to your balance!</color>"
     },
     "ECONOMY.balance.remove": {
-        "de-DE": "<color:#96a7b2>Du hast [blue][amount]</color> [economy] vom Kontostand von [blue][player]</color> <color:#ff0000>entfernt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#ff0000>removed</color> [blue][amount]</color> [economy] from the balance of [blue][player]!</color></color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] vom Kontostand von [blue][player]</color> <color:#ff0000>entfernt!</color></color>",
+        "en-US": "[grey]You have <color:#ff0000>removed</color> [blue][amount]</color> [economy] from the balance of [blue][player]!</color></color>"
     },
     "ECONOMY.balance.remove.other": {
-        "de-DE": "<color:#96a7b2>[blue][player]</color> hat [blue][amount]</color> [economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
-        "en-US": "<color:#96a7b2>[blue][player]</color> has <color:#ff0000>removed</color> [blue][amount]</color> [economy] from your balance!</color>"
+        "de-DE": "[grey][blue][player]</color> hat [blue][amount]</color> [economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
+        "en-US": "[grey][blue][player]</color> has <color:#ff0000>removed</color> [blue][amount]</color> [economy] from your balance!</color>"
     },
     "ECONOMY.balance.remove.self": {
-        "de-DE": "<color:#96a7b2>Du hast [blue][amount]</color> [economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#ff0000>removed</color> [blue][amount]</color> [economy] from your balance!</color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
+        "en-US": "[grey]You have <color:#ff0000>removed</color> [blue][amount]</color> [economy] from your balance!</color>"
     },
     "ECONOMY.balance.set": {
-        "de-DE": "<color:#96a7b2>Du hast den Kontostand von [blue][player]</color> auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#4bfb00>set</color> the balance of [blue][player]</color> to [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Du hast den Kontostand von [blue][player]</color> auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "[grey]You have <color:#4bfb00>set</color> the balance of [blue][player]</color> to [blue][amount]</color> [economy]!</color>"
     },
     "ECONOMY.balance.set.other": {
-        "de-DE": "<color:#96a7b2>[blue][player]</color> hat deinen Kontostand auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
-        "en-US": "<color:#96a7b2>[blue][player]</color> has <color:#4bfb00>set</color> your balance to [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey][blue][player]</color> hat deinen Kontostand auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "[grey][blue][player]</color> has <color:#4bfb00>set</color> your balance to [blue][amount]</color> [economy]!</color>"
     },
     "ECONOMY.balance.set.self": {
-        "de-DE": "<color:#96a7b2>Du hast deinen Kontostand auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#4bfb00>set</color> your balance to [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Du hast deinen Kontostand auf [blue][amount]</color> [economy] <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "[grey]You have <color:#4bfb00>set</color> your balance to [blue][amount]</color> [economy]!</color>"
     },
     "ECONOMY.balance.get": {
-        "de-DE": "<color:#96a7b2>Dein [economy] Kontostand beträgt [blue][amount]</color> [economy]!</color>",
-        "en-US": "<color:#96a7b2>Your [economy] balance is [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Dein [economy] Kontostand beträgt [blue][amount]</color> [economy]!</color>",
+        "en-US": "[grey]Your [economy] balance is [blue][amount]</color> [economy]!</color>"
     },
     "ECONOMY.balance.get.other": {
-        "de-DE": "<color:#96a7b2>Der [economy] Kontostand von [blue][player]</color> beträgt [blue][amount]</color> [economy]!</color>",
-        "en-US": "<color:#96a7b2>The [economy] balance of [blue][player]</color> is [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Der [economy] Kontostand von [blue][player]</color> beträgt [blue][amount]</color> [economy]!</color>",
+        "en-US": "[grey]The [economy] balance of [blue][player]</color> is [blue][amount]</color> [economy]!</color>"
     },
     "ECONOMY.balance.get.all": {
-        "de-DE": "<color:#96a7b2>Alle deine [blue]Kontostände</color> aufgelistet:<br></color>",
-        "en-US": "<color:#96a7b2>All your [blue]balances</color> listed:<br></color>"
+        "de-DE": "[grey]Alle deine [blue]Kontostände</color> aufgelistet:<br></color>",
+        "en-US": "[grey]All your [blue]balances</color> listed:<br></color>"
     },
     "ECONOMY.balance.get.all.other": {
-        "de-DE": "<color:#96a7b2>Alle [blue]Kontostände</color> von [blue][player]</color> aufgelistet:<br></color>",
-        "en-US": "<color:#96a7b2>All [blue]balances</color> of [blue][player]</color> listed:<br></color>"
+        "de-DE": "[grey]Alle [blue]Kontostände</color> von [blue][player]</color> aufgelistet:<br></color>",
+        "en-US": "[grey]All [blue]balances</color> of [blue][player]</color> listed:<br></color>"
     },
     "ECONOMY.balance.pay": {
-        "de-DE": "<color:#96a7b2>Du hast [blue][player]</color> [blue][amount]</color> [economy] überwiesen!</color>",
-        "en-US": "<color:#96a7b2>You have payed [blue][player]</color> [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey]Du hast [blue][player]</color> [blue][amount]</color> [economy] überwiesen!</color>",
+        "en-US": "[grey]You have payed [blue][player]</color> [blue][amount]</color> [economy]!</color>"
     },
     "ECONOMY.balance.pay.other": {
-        "de-DE": "<color:#96a7b2>[blue][player]</color> hat dir [blue][amount]</color> [economy] überwiesen!</color>",
-        "en-US": "<color:#96a7b2>[blue][player]</color> has payed you [blue][amount]</color> [economy]!</color>"
+        "de-DE": "[grey][blue][player]</color> hat dir [blue][amount]</color> [economy] überwiesen!</color>",
+        "en-US": "[grey][blue][player]</color> has payed you [blue][amount]</color> [economy]!</color>"
     },
     "ECONOMY.balance.pay.all": {
-        "de-DE": "<color:#96a7b2>Du hast [blue][amount]</color> [economy] an alle Spieler überwiesen! <dark_grey>([blue]-[minus] [economy]</color>)</dark_grey></color>",
-        "en-US": "<color:#96a7b2>You have payed [blue][amount]</color> [economy] to all players! <dark_grey>([blue]-[minus] [economy]</color>)</dark_grey></color>"
+        "de-DE": "[grey]Du hast [blue][amount]</color> [economy] an alle Spieler überwiesen! <dark_grey>([blue]-[minus] [economy]</color>)</dark_grey></color>",
+        "en-US": "[grey]You have payed [blue][amount]</color> [economy] to all players! <dark_grey>([blue]-[minus] [economy]</color>)</dark_grey></color>"
     },
     "ECONOMY.error.money": {
-        "de-DE": "<color:#96a7b2>Du hast <color:#ff0000>nicht</color> genügend [economy] um diese Aktion auszuführen!</color>",
-        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have enough [economy] to perform this action!</color>"
+        "de-DE": "[grey]Du hast <color:#ff0000>nicht</color> genügend [economy] um diese Aktion auszuführen!</color>",
+        "en-US": "[grey]You <color:#ff0000>do not</color> have enough [economy] to perform this action!</color>"
     },
     "ECONOMY.error.money.other": {
-        "de-DE": "<color:#96a7b2>[blue][player]</color> hat <color:#ff0000>nicht</color> genügend [economy] um diese Aktion auszuführen!</color>",
-        "en-US": "<color:#96a7b2>[blue][player]</color> <color:#ff0000>does not</color> have enough [economy] to perform this action!</color>"
+        "de-DE": "[grey][blue][player]</color> hat <color:#ff0000>nicht</color> genügend [economy] um diese Aktion auszuführen!</color>",
+        "en-US": "[grey][blue][player]</color> <color:#ff0000>does not</color> have enough [economy] to perform this action!</color>"
     },
     "ERROR.economy.notfound": {
         "de-DE": "[grey]Das System konnte die angegebene [blue]Währung</color> [red]nicht</color> finden!</color>",
         "en-US": "[grey]The system could <color:#ff0000>not</color> find the specified [blue]currency</color>!</color>"
     },
     "ECONOMY.currency.add": {
-        "de-DE": "[grey]Du hast die [blue]Währung [currency]</color> [green]hinzugefügt!</color></color>",
-        "en-US": "[grey]You have [green]added</color> the [blue]currency [currency]!</color></color>"
+        "de-DE": "[grey]Du hast die Währung [blue][currency]</color> [green]hinzugefügt!</color></color>",
+        "en-US": "[grey]You have [green]added</color> the currency [blue][currency]!</color></color>"
     },
     "ECONOMY.currency.remove": {
         "de-DE": "[grey]Du hast die [blue]Währung [currency]</color> [red]entfernt!</color></color>",
         "en-US": "[grey]You have [red]removed</color> the [blue]currency [currency]!</color></color>"
     },
     "ECONOMY.currency.exists": {
-        "de-DE": "[grey]Die [blue]Währung [currency]</color> existiert bereits!</color>",
-        "en-US": "[grey]The [blue]currency [currency]</color> already exists!</color>"
+        "de-DE": "[grey]Die Währung [blue][currency]</color> existiert bereits!</color>",
+        "en-US": "[grey]The currency [blue][currency]</color> already exists!</color>"
     },
     "ECONOMY.currency.list": {
         "de-DE": "[grey]Registrierte Währungen: [blue][currencies]</color></color>",
