@@ -19,6 +19,30 @@
         "de-DE": "[grey]Du kannst diesen [blue]Command</color> [red]nicht</color> an dir selbst ausführen!</color>",
         "en-US": "[grey]You can't execute this [blue]command</color> on yourself!</color>"
     },
+    "GENERAL.you": {
+        "de-DE": "Du",
+        "en-US": "You"
+    },
+    "GENERAL.unknown": {
+        "de-DE": "Unbekannt",
+        "en-US": "Unknown"
+    },
+    "GENERAL.none": {
+        "de-DE": "Keine",
+        "en-US": "None"
+    },
+    "GENERAL.all": {
+        "de-DE": "Alle",
+        "en-US": "All"
+    },
+    "GENERAL.everyone": {
+        "de-DE": "Jeder",
+        "en-US": "Everyone"
+    },
+    "GENERAL.i": {
+        "de-DE": "Ich",
+        "en-US": "I"
+    },
     "DATE.relative.minute.less.ago": {
         "de-DE": "vor weniger als einer Minute",
         "en-US": "less than a minute ago"
