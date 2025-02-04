@@ -54,17 +54,5 @@
     "ERROR.friend.notfriends": {
         "de-DE": "<color:#96a7b2>Du bist nicht mit diesem Spieler [blue]befreundet!</color></color>",
         "en-US": "<color:#96a7b2>You are not [blue]friends</color> with this player!</color>"
-    },
-    "GUI.friends.requests": {
-        "de-DE": "Freundschaftsanfragen",
-        "en-US": "Friend Requests"
-    },
-    "GUI.friends.requests.sent": {
-        "de-DE": "Gesendete Freundschaftsanfragen",
-        "en-US": "Sent Friend Requests"
-    },
-    "GUI.friends" : {
-        "de-DE": "Freunde",
-        "en-US": "Friends"
     }
 }
