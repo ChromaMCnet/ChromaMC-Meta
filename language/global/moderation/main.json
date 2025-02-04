@@ -92,16 +92,16 @@
         "de-DE": "[grey]Der Spieler [blue][player]</color> hat [red]keine</color> Bestrafungshistorie.</color>"
     },
     "GENERAL.history.timed": {
-        "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Dauer: [blue][duration]</color><br>[prefix] Aktiv: [blue][active]</color></color>",
-        "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Duration: [blue][duration]</color><br>[prefix] Active: [blue][active]</color></color>"
+        "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Dauer: [blue][duration]</color><br>[prefix] Aktiv: [blue]<b>[active]</b></color></color>",
+        "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color><br>[prefix] Servergroup: [blue][servergroup]</color><br>[prefix] Duration: [blue][duration]</color><br>[prefix] Active: [blue]<b>[active]</b></color></color>"
     },
     "GENERAL.history.kicks": {
         "de-DE": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Grund: [blue][reason]</color></color>",
         "en-US": "[grey][prefix] Punishment ID: [blue][id]</color><br>[prefix] Executor: [blue][executor]</color><br>[prefix] Reason: [blue][reason]</color></color>"
     },
     "GENERAL.history.timed.gui.lore": {
-        "de-DE": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Grund: [blue][reason]</color><br><i:false>[grey][dot] Servergruppe: [blue][servergroup]</color><br><i:false>[grey][dot] Dauer: [blue][duration]</color><br><i:false>[grey][dot] Aktiv: <white>[active]</white></color>",
-        "en-US": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Reason: [blue][reason]</color><br><i:false>[grey][dot] Servergroup: [blue][servergroup]</color><br><i:false>[grey][dot] Duration: [blue][duration]</color><br><i:false>[grey][dot] Active: <white>[active]</white></color>"
+        "de-DE": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Grund: [blue][reason]</color><br><i:false>[grey][dot] Servergruppe: [blue][servergroup]</color><br><i:false>[grey][dot] Dauer: [blue][duration]</color><br><i:false>[grey][dot] Aktiv: <white><b>[active]</b></white></color>",
+        "en-US": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Reason: [blue][reason]</color><br><i:false>[grey][dot] Servergroup: [blue][servergroup]</color><br><i:false>[grey][dot] Duration: [blue][duration]</color><br><i:false>[grey][dot] Active: <white><b>[active]</b></white></color>"
     },
     "GENERAL.history.kicks.gui.lore": {
         "de-DE": "<i:false>[grey][dot] ID: [blue][id]</color><br><i:false>[grey][dot] Executor: [blue][executor]</color><br><i:false>[grey][dot] Grund: [blue][reason]</color>",
