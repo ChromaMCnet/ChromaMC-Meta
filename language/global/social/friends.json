@@ -71,7 +71,7 @@
         "de-DE": "[grey]Du hast [blue][player]</color> [red]keine</color> [blue]Freundschaftsanfrage</color> gesendet, die du zurückziehen könntest!</color>",
         "en-US": "[grey]You have [red]not</color> sent a [blue]friend request</color> to [blue][player] that you could revoke!</color>"
     },
-    "ERROR.friends.accept.no.request": {
+    "ERROR.friends.no.request": {
         "de-DE": "[grey][blue][player]</color> hat dir [red]keine</color> [blue]Freundschaftsanfrage</color> gesendet, die du annehmen könntest!</color>",
         "en-US": "[grey][blue][player]</color> has [red]not</color> sent you a [blue]friend request</color> that you could accept!</color>"
     },
