@@ -19,10 +19,6 @@
         "de-DE": "[grey]Du hast die Freundschaftsanfrage von [blue][player]</color> <color:#ff0000>abgelehnt!</color></color>",
         "en-US": "[grey]You have <color:#ff0000>denied</color> the friend request from [blue][player]!</color></color>"
     },
-    "ERROR.friends.jump.disabled": {
-        "de-DE": "[grey][blue][player]</color> hat das [blue]Nachspringen</color> zu sich [red]deaktiviert!</color></color>",
-        "en-US": "[grey][blue][player]</color> has [red]disabled</color> [blue]jumping</color> to him!</color>"
-    },
     "GENERAL.friends.request.deny.other": {
         "de-DE": "[grey][blue][player]</color> hat deine Freundschaftsanfrage <color:#ff0000>abgelehnt!</color></color>",
         "en-US": "[grey][blue][player]</color> has <color:#ff0000>denied</color> your friend request!</color>"
@@ -34,6 +30,14 @@
     "GENERAL.friends.remove.other": {
         "de-DE": "[grey][blue][player]</color> hat dich aus seiner Freundesliste entfernt!</color>",
         "en-US": "[grey][blue][player]</color> has removed you from his friendlist!</color>"
+    },
+    "GENERAL.friend.request.revoke": {
+        "de-DE": "[grey]Du hast die [blue]Freundschaftsanfrage</color> an [blue][player]</color> zurückgezogen!</color>",
+        "en-US": "[grey]You have revoked the [blue]friend request</color> to [blue][player]!</color>"
+    },
+    "GENERAL.friend.request.revoke.other": {
+        "de-DE": "[grey][blue][player]</color> hat die [blue]Freundschaftsanfrage</color> an dich zurückgezogen!</color>",
+        "en-US": "[grey][blue][player]</color> has revoked the [blue]friend request</color> to you!</color>"
     },
     "GENERAL.friends.join.requests": {
         "de-DE": "[grey]Du hast aktuell [blue][count]</color> offene [blue]Freundschaftsanfragen!</color></color>",
@@ -58,6 +62,10 @@
     "GENERAL.friends.switch.server": {
         "de-DE": "[grey]Dein Freund [blue][player]</color> spielt jetzt auf [blue][server]!</color></color>",
         "en-US": "[grey]Your friend [blue][player]</color> is now playing on [blue][server]!</color></color>"
+    },
+    "ERROR.friends.jump.disabled": {
+        "de-DE": "[grey][blue][player]</color> hat das [blue]Nachspringen</color> zu sich [red]deaktiviert!</color></color>",
+        "en-US": "[grey][blue][player]</color> has [red]disabled</color> [blue]jumping</color> to him!</color>"
     },
     "ERROR.friends.request.notsent": {
         "de-DE": "[grey]Du hast [blue][player]</color> <color:#ff0000>keine</color> [blue]Freundschaftsanfrage</color> gesendet, die du zurückziehen könntest!</color>",
