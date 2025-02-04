@@ -86,5 +86,61 @@
     "ERROR.friend.notfriends": {
         "de-DE": "[grey]Du bist [red]nicht</color> mit diesem Spieler [blue]befreundet!</color></color>",
         "en-US": "[grey]You are [red]not</color> [blue]friends</color> with this player!</color>"
+    },
+    "GENERAL.setting.jump.disable": {
+        "de-DE": "[grey]Du hast das [blue]Nachspringen</color> zu dir [red]deaktiviert!</color></color>",
+        "en-US": "[grey]You have [red]disabled</color> [blue]jumping</color> to you!</color>"
+    },
+    "GENERAL.setting.jump.enable": {
+        "de-DE": "[grey]Du hast das [blue]Nachspringen</color> zu dir [green]aktiviert!</color></color>",
+        "en-US": "[grey]You have [green]enabled</color> [blue]jumping</color> to you!</color>"
+    },
+    "GENERAL.setting.notify.join.enable": {
+        "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn ein [blue]Freund</color> den Server [green]betritt!</color></color>",
+        "en-US": "[grey]You will now be [blue]notified</color> when a [blue]friend</color> joins the [green]server!</color></color>"
+    },
+    "GENERAL.setting.notify.leave.enable": {
+        "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn ein [blue]Freund</color> den Server [red]verlässt!</color></color>",
+        "en-US": "[grey]You will now be [blue]notified</color> when a [blue]friend</color> leaves the [red]server!</color></color>"
+    },
+    "GENERAL.setting.notify.switch.enable": {
+        "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn ein [blue]Freund</color> den Server [blue]wechselt!</color></color>",
+        "en-US": "[grey]You will now be [blue]notified</color> when a [blue]friend</color> switches the [blue]server!</color></color>"
+    },
+    "GENERAL.setting.notify.join.disable": {
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn ein [blue]Freund</color> den Server [green]betritt!</color></color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [blue]friend</color> joins the [green]server!</color></color>"
+    },
+    "GENERAL.setting.notify.leave.disable": {
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn ein [blue]Freund</color> den Server [red]verlässt!</color></color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [blue]friend</color> leaves the [red]server!</color></color>"
+    },
+    "GENERAL.setting.notify.switch.disable": {
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn ein [blue]Freund</color> den Server [blue]wechselt!</color></color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [blue]friend</color> switches the [blue]server!</color></color>"
+    },
+    "GENERAL.setting.notify.join.send.enable": {
+        "de-DE": "[grey]Deine Freunde werden nun [blue]benachrichtigt</color>, wenn du den Server [green]betritst!</color></color>",
+        "en-US": "[grey]Your friends will now be [blue]notified</color> when you join the [green]server!</color></color>"
+    },
+    "GENERAL.setting.notify.leave.send.enable": {
+        "de-DE": "[grey]Deine Freunde werden nun [blue]benachrichtigt</color>, wenn du den Server [red]verlässt!</color></color>",
+        "en-US": "[grey]Your friends will now be [blue]notified</color> when you leave the [red]server!</color></color>"
+    },
+    "GENERAL.setting.notify.switch.send.enable": {
+        "de-DE": "[grey]Deine Freunde werden nun [blue]benachrichtigt</color>, wenn du den Server [blue]wechselst!</color></color>",
+        "en-US": "[grey]Your friends will now be [blue]notified</color> when you switch the [blue]server!</color></color>"
+    },
+    "GENERAL.setting.notify.join.send.disable": {
+        "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du den Server [green]betritst!</color></color>",
+        "en-US": "[grey]Your friends will [red]no longer</color> be notified when you join the [green]server!</color></color>"
+    },
+    "GENERAL.setting.notify.leave.send.disable": {
+        "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du den Server [red]verlässt!</color></color>",
+        "en-US": "[grey]Your friends will [red]no longer</color> be notified when you leave the [red]server!</color></color>"
+    },
+    "GENERAL.setting.notify.switch.send.disable": {
+        "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du den Server [blue]wechselst!</color></color>",
+        "en-US": "[grey]Your friends will [red]no longer</color> be notified when you switch the [blue]server!</color></color>"
     }
 }
