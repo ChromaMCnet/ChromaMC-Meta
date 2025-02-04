@@ -76,7 +76,7 @@
         "en-US": "[grey][blue][player]</color> has [red]not</color> sent you a [blue]friend request</color> that you could accept!</color>"
     },
     "ERROR.friends.request.send": {
-        "de-DE": "[grey]Du hast [blue][player]</color> [red]schon eine</color> [blue]Freundschaftsanfrage</color> gesendet!</color>",
+        "de-DE": "[grey]Du hast [blue][player]</color> [red]bereits eine</color> [blue]Freundschaftsanfrage</color> gesendet!</color>",
         "en-US": "[grey]You have [red]already</color> sent a [blue]friend request</color> to [blue][player]!</color></color>"
     },
     "ERROR.friends.already": {
