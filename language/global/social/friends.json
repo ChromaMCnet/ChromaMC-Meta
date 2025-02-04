@@ -79,6 +79,10 @@
         "de-DE": "[grey]Du hast [blue][player]</color> [red]bereits eine</color> [blue]Freundschaftsanfrage</color> gesendet!</color>",
         "en-US": "[grey]You have [red]already</color> sent a [blue]friend request</color> to [blue][player]!</color></color>"
     },
+    "ERROR.friends.request.send.other": {
+        "de-DE": "[grey][blue][player]</color> hat [blue]DIR</color> [red]bereits eine</color> [blue]Freundschaftsanfrage</color> gesendet!</color>",
+        "en-US": "[grey][blue][player]</color> [red]already</color> sent a [blue]friend request</color> to [blue]YOU!</color></color>"
+    },
     "ERROR.friends.already": {
         "de-DE": "[grey]Du bist [red]bereits</color> mit [blue][player]</color> [blue]befreundet!</color></color>",
         "en-US": "[grey]You are [red]already</color> [blue]friends</color> with [blue][player]!</color></color>"
