@@ -40,8 +40,12 @@
         "en-US": "[grey]You currently have [blue][count]</color> open [blue]friend requests!</color></color>"
     },
     "GENERAL.friends.join.online": {
-        "de-DE": "[grey]Es sind aktuell [blue][friends-online]</color> deiner Freunde online! <dark_grey>([green][friends-online]</color> / [grey][friends]</color>)</dark_grey></color>",
-        "en-US": "[grey]There are currently [blue][friends-online]</color> of your friends online! <dark_grey>([green][friends-online]</color> / [grey][friends]</color>)</dark_grey></color>"
+        "de-DE": "[grey]Es sind aktuell [green][friends-online]</color> deiner Freunde online! <dark_grey>([green][friends-online]</color> / [grey][friends]</color>)</dark_grey></color>",
+        "en-US": "[grey]There are currently [green][friends-online]</color> of your friends online! <dark_grey>([green][friends-online]</color> / [grey][friends]</color>)</dark_grey></color>"
+    },
+    "GENERAL.friends.join.offline": {
+        "de-DE": "[grey]Es sind aktuell [red]keine</color> deiner Freunde online!</color>",
+        "en-US": "[grey]There are currently [red]none</color> of your friends online!</color>"
     },
     "GENERAL.friends.join.server": {
         "de-DE": "[grey]Dein Freund [blue][player]</color> ist jetzt [green]online!</color></color>",
