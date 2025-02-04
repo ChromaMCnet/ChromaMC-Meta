@@ -20,8 +20,8 @@
         "en-US": "<color:#96a7b2>You have <color:#ff0000>denied</color> the friend request from [blue][player]!</color></color>"
     },
     "ERROR.friends.jump.disabled": {
-        "de-DE": "<color:#96a7b2>[blue][player]</color> hat das [blue]Nachspringen</color> zu sich deaktiviert!</color>",
-        "en-US": "<color:#96a7b2>[blue][player]</color> has disabled [blue]jumping</color> to him!</color>"
+        "de-DE": "<color:#96a7b2>[blue][player]</color> hat das [blue]Nachspringen</color> zu sich [red]deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>[blue][player]</color> has [red]disabled</color> [blue]jumping</color> to him!</color>"
     },
     "GENERAL.friends.request.deny.other": {
         "de-DE": "<color:#96a7b2>[blue][player]</color> hat deine Freundschaftsanfrage <color:#ff0000>abgelehnt!</color></color>",
