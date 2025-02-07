@@ -1,33 +1,33 @@
 {
-    "GENERAL.friends.request.receive": {
+    "GENERAL.friend.request.receive": {
         "de-DE": "[grey]Du hast eine [blue]Freundschaftsanfrage</color> von [blue][player]</color> erhalten!<br>                         [green]<b><click:run_command:'/friend accept [player]'><b>[ANNEHMEN]</b></click></b></color> - [red]<b><click:run_command:'/friend deny [player]'><b>[ABLEHNEN]</b></click></b></color></color>",
         "en-US": "[grey]You have received a [blue]friend request</color> from [blue][player]!</color><br>                         [green]<b><click:run_command:'/friend accept [player]'><b>[ACCEPT]</b></click></b></color> - [red]<b><click:run_command:'/friend deny [player]'><b>[DENY]</b></click></b></color></color>"
     },
-    "GENERAL.friends.request.send": {
+    "GENERAL.friend.request.send": {
         "de-DE": "[grey]Du hast eine [blue]Freundschaftsanfrage</color> an [blue][player]</color> gesendet!</color>",
         "en-US": "[grey]You have sent a [blue]friend request</color> to [blue][player]!</color></color>"
     },
-    "GENERAL.friends.request.accept": {
+    "GENERAL.friend.request.accept": {
         "de-DE": "[grey]Du hast die [blue]Freundschaftsanfrage</color> von [blue][player]</color> [green]angenommen!</color></color>",
         "en-US": "[grey]You have [green]accepted</color> the [blue]friend request</color> from [blue][player]!</color></color>"
     },
-    "GENERAL.friends.request.accept.other": {
+    "GENERAL.friend.request.accept.other": {
         "de-DE": "[grey][blue][player]</color> hat deine [blue]Freundschaftsanfrage</color> [green]angenommen!</color></color>",
         "en-US": "[grey][blue][player]</color> has [green]accepted</color> your [blue]friend request!</color></color>"
     },
-    "GENERAL.friends.request.deny": {
+    "GENERAL.friend.request.deny": {
         "de-DE": "[grey]Du hast die [blue]Freundschaftsanfrage</color> von [blue][player]</color> [red]abgelehnt!</color></color>",
         "en-US": "[grey]You have [red]denied</color> the [blue]friend request</color> from [blue][player]!</color></color>"
     },
-    "GENERAL.friends.request.deny.other": {
+    "GENERAL.friend.request.deny.other": {
         "de-DE": "[grey][blue][player]</color> hat deine [blue]Freundschaftsanfrage</color> [red]abgelehnt!</color></color>",
         "en-US": "[grey][blue][player]</color> has [red]denied</color> your [blue]friend request!</color></color>"
     },
-    "GENERAL.friends.remove": {
+    "GENERAL.friend.remove": {
         "de-DE": "[grey]Du hast [blue][player]</color> aus deiner [blue]Freundesliste</color> [red]entfernt!</color></color>",
         "en-US": "[grey]You have [red]removed</color> [blue][player]</color> from your [blue]friendlist!</color></color>"
     },
-    "GENERAL.friends.remove.other": {
+    "GENERAL.friend.remove.other": {
         "de-DE": "[grey][blue][player]</color> hat dich aus seiner [blue]Freundesliste</color> [red]entfernt!</color></color>",
         "en-US": "[grey][blue][player]</color> has [red]removed</color> you from his [blue]friendlist!</color></color>"
     },
@@ -39,51 +39,51 @@
         "de-DE": "[grey][blue][player]</color> hat die [blue]Freundschaftsanfrage</color> an dich [yellow]zurückgezogen!</color></color>",
         "en-US": "[grey][blue][player]</color> has [yellow]revoked</color> the [blue]friend request</color> to you!</color>"
     },
-    "GENERAL.friends.join.requests": {
+    "GENERAL.friend.join.requests": {
         "de-DE": "[grey]Du hast aktuell [blue][count]</color> offene [blue]Freundschaftsanfragen!</color></color>",
         "en-US": "[grey]You currently have [blue][count]</color> open [blue]friend requests!</color></color>"
     },
-    "GENERAL.friends.join.online": {
+    "GENERAL.friend.join.online": {
         "de-DE": "[grey]Es sind aktuell [green][friends-online]</color> deiner Freunde [green]online!</color> <dark_grey>([green][friends-online]</color> / [grey][friends]</color>)</dark_grey></color>",
         "en-US": "[grey]There are currently [green][friends-online]</color> of your friends [green]online!</color> <dark_grey>([green][friends-online]</color> / [grey][friends]</color>)</dark_grey></color>"
     },
-    "GENERAL.friends.join.offline": {
+    "GENERAL.friend.join.offline": {
         "de-DE": "[grey]Es sind aktuell [red]keine</color> deiner Freunde [green]online!</color></color>",
         "en-US": "[grey]There are currently [red]none</color> of your friends [green]online!</color></color>"
     },
-    "GENERAL.friends.join.server": {
+    "GENERAL.friend.join.server": {
         "de-DE": "[grey]Dein Freund [blue][player]</color> ist jetzt [green]online!</color></color>",
         "en-US": "[grey]Your friend [blue][player]</color>is now [green]online!</color></color>"
     },
-    "GENERAL.friends.leave.server": {
+    "GENERAL.friend.leave.server": {
         "de-DE": "[grey]Dein Freund [blue][player]</color> hat den Server [red]verlassen.</color></color>",
         "en-US": "[grey]Your friend [blue][player]</color> has left the [red]server.</color></color>"
     },
-    "GENERAL.friends.switch.server": {
+    "GENERAL.friend.switch.server": {
         "de-DE": "[grey]Dein Freund [blue][player]</color> spielt jetzt auf [blue][server]!</color></color>",
         "en-US": "[grey]Your friend [blue][player]</color> is now playing on [blue][server]!</color></color>"
     },
-    "ERROR.friends.jump.disabled": {
+    "ERROR.friend.jump.disabled": {
         "de-DE": "[grey][blue][player]</color> hat das [blue]Nachspringen</color> zu sich [red]deaktiviert!</color></color>",
         "en-US": "[grey][blue][player]</color> has [red]disabled</color> [blue]jumping</color> to him!</color>"
     },
-    "ERROR.friends.revoke.no.request": {
+    "ERROR.friend.revoke.no.request": {
         "de-DE": "[grey]Du hast [blue][player]</color> [red]keine</color> [blue]Freundschaftsanfrage</color> gesendet, die du zurückziehen könntest!</color>",
         "en-US": "[grey]You have [red]not</color> sent a [blue]friend request</color> to [blue][player] that you could revoke!</color>"
     },
-    "ERROR.friends.no.request": {
+    "ERROR.friend.no.request": {
         "de-DE": "[grey][blue][player]</color> hat dir [red]keine</color> [blue]Freundschaftsanfrage</color> gesendet, die du annehmen könntest!</color>",
         "en-US": "[grey][blue][player]</color> has [red]not</color> sent you a [blue]friend request</color> that you could accept!</color>"
     },
-    "ERROR.friends.request.pending": {
+    "ERROR.friend.request.pending": {
         "de-DE": "[grey]Du hast [blue][player]</color> [red]bereits eine</color> [blue]Freundschaftsanfrage</color> gesendet!</color>",
         "en-US": "[grey]You have [red]already</color> sent a [blue]friend request</color> to [blue][player]!</color></color>"
     },
-    "ERROR.friends.request.pending.other": {
+    "ERROR.friend.request.pending.other": {
         "de-DE": "[grey][blue][player]</color> hat [blue]DIR</color> [red]bereits eine</color> [blue]Freundschaftsanfrage</color> gesendet!</color>",
         "en-US": "[grey][blue][player]</color> [red]already</color> sent a [blue]friend request</color> to [blue]YOU!</color></color>"
     },
-    "ERROR.friends.request.send.already.friends": {
+    "ERROR.friend.request.send.already.friends": {
         "de-DE": "[grey]Du bist [red]bereits</color> mit [blue][player]</color> [blue]befreundet!</color></color>",
         "en-US": "[grey]You are [red]already</color> [blue]friends</color> with [blue][player]!</color></color>"
     },
