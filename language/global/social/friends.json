@@ -170,5 +170,69 @@
     "GENERAL.settings.notify.requests.open.disable": {
         "de-DE": "[grey]Dir wird nun [red]nicht mehr</color> angezeigt, wie viele [blue]Freundschaftsanfragen</color> du offen hast, wenn du den Server betritst!</color>",
         "en-US": "[grey]You will [red]no longer</color> be shown how many [blue]friend requests</color> you have open when you join the server!</color>"
+    },
+    "GENERAL.settings.notify.friend.remove.enable": {
+        "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn dich ein [blue]Freund</color> aus seiner [blue]Freundesliste</color> entfernt!</color></color>",
+        "en-US": "[grey]You will now be [blue]notified</color> when a [blue]friend</color> removes you from his [blue]friendlist!</color></color>"
+    },
+    "GENERAL.settings.notify.friend.remove.disable": {
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn dich ein [blue]Freund</color> aus seiner [blue]Freundesliste</color> entfernt!</color></color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [blue]friend</color> removes you from his [blue]friendlist!</color></color>"
+    },
+    "GENERAL.settings.notify.friend.remove.enable.other": {
+        "de-DE": "[grey]Deine Freunde werden nun [blue]benachrichtigt</color>, wenn du sie aus deiner [blue]Freundesliste</color> entfernst!</color></color>",
+        "en-US": "[grey]Your friends will now be [blue]notified</color> when you remove them from your [blue]friendlist!</color></color>"
+    },
+    "GENERAL.settings.notify.friend.remove.disable.other": {
+        "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du sie aus deiner [blue]Freundesliste</color> entfernst!</color></color>",
+        "en-US": "[grey]Your friends will [red]no longer</color> be notified when you remove them from your [blue]friendlist!</color></color>"
+    },
+    "GENERAL.setting.notify.request.accept.enable": {
+        "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn eine [blue]Freundschaftsanfrage</color> angenommen wird!</color></color>",
+        "en-US": "[grey]You will now be [blue]notified</color> when a [blue]friend request</color> is accepted!</color></color>"
+    },
+    "GENERAL.setting.notify.request.accept.disable": {
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [blue]Freundschaftsanfrage</color> angenommen wird!</color></color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [blue]friend request</color> is accepted!</color></color>"
+    },
+    "GENERAL.setting.notify.request.accept.enable.other": {
+        "de-DE": "[grey]Der Spieler, der dir eine [blue]Freundschaftsanfrage</color> gesendet hat, wird nun [blue]benachrichtigt</color>, wenn du seine [blue]Freundschaftsanfrage</color> annimmst!</color></color>",
+        "en-US": "[grey]The player who sent you a [blue]friend request</color> will now be [blue]notified</color> when you accept his [blue]friend request!</color></color>"
+    },
+    "GENERAL.setting.notify.request.accept.disable.other": {
+        "de-DE": "[grey]Der Spieler, der dir eine [blue]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [blue]Freundschaftsanfrage</color> annimmst!</color></color>",
+        "en-US": "[grey]The player who sent you a [blue]friend request</color> will now [red]no longer</color> be notified when you accept his [blue]friend request!</color></color>"
+    },
+    "GENERAL.setting.notify.request.deny.enable": {
+        "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn eine [blue]Freundschaftsanfrage</color> abgelehnt wird!</color></color>",
+        "en-US": "[grey]You will now be [blue]notified</color> when a [blue]friend request</color> is denied!</color></color>"
+    },
+    "GENERAL.setting.notify.request.deny.disable": {
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [blue]Freundschaftsanfrage</color> abgelehnt wird!</color></color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [blue]friend request</color> is denied!</color></color>"
+    },
+    "GENERAL.setting.notify.request.deny.enable.other": {
+        "de-DE": "[grey]Der Spieler, der dir eine [blue]Freundschaftsanfrage</color> gesendet hat, wird nun [blue]benachrichtigt</color>, wenn du seine [blue]Freundschaftsanfrage</color> ablehnst!</color></color>",
+        "en-US": "[grey]The player who sent you a [blue]friend request</color> will now be [blue]notified</color> when you deny his [blue]friend request!</color></color>"
+    },
+    "GENERAL.setting.notify.request.deny.disable.other": {
+        "de-DE": "[grey]Der Spieler, der dir eine [blue]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [blue]Freundschaftsanfrage</color> ablehnst!</color></color>",
+        "en-US": "[grey]The player who sent you a [blue]friend request</color> will now [red]no longer</color> be notified when you deny his [blue]friend request!</color></color>"
+    },
+    "GENERAL.setting.notify.request.revoke.enable": {
+        "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn eine [blue]Freundschaftsanfrage</color> zurückgezogen wird!</color></color>",
+        "en-US": "[grey]You will now be [blue]notified</color> when a [blue]friend request</color> is revoked!</color></color>"
+    },
+    "GENERAL.setting.notify.request.revoke.disable": {
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn eine [blue]Freundschaftsanfrage</color> zurückgezogen wird!</color></color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when a [blue]friend request</color> is revoked!</color></color>"
+    },
+    "GENERAL.setting.notify.request.revoke.enable.other": {
+        "de-DE": "[grey]Der Spieler, der dir eine [blue]Freundschaftsanfrage</color> gesendet hat, wird nun [blue]benachrichtigt</color>, wenn du seine [blue]Freundschaftsanfrage</color> zurückziehst!</color></color>",
+        "en-US": "[grey]The player who sent you a [blue]friend request</color> will now be [blue]notified</color> when you revoke his [blue]friend request!</color></color>"
+    },
+    "GENERAL.setting.notify.request.revoke.disable.other": {
+        "de-DE": "[grey]Der Spieler, der dir eine [blue]Freundschaftsanfrage</color> gesendet hat, wird nun [red]nicht</color> mehr benachrichtigt, wenn du seine [blue]Freundschaftsanfrage</color> zurückziehst!</color></color>",
+        "en-US": "[grey]The player who sent you a [blue]friend request</color> will now [red]no longer</color> be notified when you revoke his [blue]friend request!</color></color>"
     }
 }
