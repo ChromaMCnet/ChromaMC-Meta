@@ -43,6 +43,10 @@
         "de-DE": "Ich",
         "en-US": "I"
     },
+    "GENERAL.and": {
+        "de-DE": "und",
+        "en-US": "and"
+    },
     "DATE.relative.minute.less.ago": {
         "de-DE": "vor weniger als einer Minute",
         "en-US": "less than a minute ago"
