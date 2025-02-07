@@ -146,5 +146,29 @@
     "GENERAL.setting.notify.switch.send.disable": {
         "de-DE": "[grey]Deine Freunde werden nun [red]nicht</color> mehr benachrichtigt, wenn du den Server [blue]wechselst!</color></color>",
         "en-US": "[grey]Your friends will [red]no longer</color> be notified when you switch the [blue]server!</color></color>"
+    },
+    "GENERAL.settings.notify.request.get.enable": {
+        "de-DE": "[grey]Du wirst nun [blue]benachrichtigt</color>, wenn du eine [blue]Freundschaftsanfrage</color> erhältst!</color></color>",
+        "en-US": "[grey]You will now be [blue]notified</color> when you receive a [blue]friend request!</color></color>"
+    },
+    "GENERAL.settings.notify.request.get.disable": {
+        "de-DE": "[grey]Du wirst nun [red]nicht</color> mehr benachrichtigt, wenn du eine [blue]Freundschaftsanfrage</color> erhältst!</color></color>",
+        "en-US": "[grey]You will [red]no longer</color> be notified when you receive a [blue]friend request!</color></color>"
+    },
+    "GENERAL.settings.notify.friends.online.enable": {
+        "de-DE": "[grey]Dir wird nun angezeigt, wie viele deiner [blue]Freunde</color> [green]online</color> sind, wenn du den Server betritst!</color>",
+        "en-US": "[grey]You will now be shown how many of your [blue]friends</color> are [green]online</color> when you join the server!</color>"
+    },
+    "GENERAL.settings.notify.friends.online.disable": {
+        "de-DE": "[grey]Dir wird nun [red]nicht mehr</color> angezeigt, wie viele deiner [blue]Freunde</color> [green]online</color> sind, wenn du den Server betritst!</color>",
+        "en-US": "[grey]You will [red]no longer</color> be shown how many of your [blue]friends</color> are [green]online</color> when you join the server!</color>"
+    },
+    "GENERAL.settings.notify.requests.open.enable": {
+        "de-DE": "[grey]Dir wird nun wieder angezeigt, wie viele [blue]Freundschaftsanfragen</color> du offen hast, wenn du den Server betritst!</color>",
+        "en-US": "[grey]You will now be shown how many [blue]friend requests</color> you have open when you join the server!</color>"
+    },
+    "GENERAL.settings.notify.requests.open.disable": {
+        "de-DE": "[grey]Dir wird nun [red]nicht mehr</color> angezeigt, wie viele [blue]Freundschaftsanfragen</color> du offen hast, wenn du den Server betritst!</color>",
+        "en-US": "[grey]You will [red]no longer</color> be shown how many [blue]friend requests</color> you have open when you join the server!</color>"
     }
 }
